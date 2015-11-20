@@ -1,3 +1,3 @@
-function afficher_ok(){
-	alert('OK');
+function afficher_quelquechose(quelquechose){
+	alert(quelquechose);
 }
